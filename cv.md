@@ -24,7 +24,10 @@ Extensive background in Business Process Management and Project Management (non-
 
 ***
 # Skills
-
+- HTML, CSS basics
+- Photoshop, Illustrator, Procreate
+- English B2+, Spanish B1
 ***
 # Education
-
+Bachelor in Linguistics and Pedagogy
+Minsk State Linguistic University, 2016
