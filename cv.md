@@ -1,8 +1,7 @@
 # Hanna Khakhol
-***
 # About Me
 Extensive background in Business Process Management and Project Management (non-technical). Good leadership skills, flexibility and adaptability. Excellent communication skills and multi-tasking strenth. Have a strong desire to learn front-end make a successful career change.
-***
+
 # Experience
 **Senior Project Administrator, EPAM Spain**
 2021 - current
@@ -22,12 +21,11 @@ Extensive background in Business Process Management and Project Management (non-
 - Deployment of LinkedIn Talent Solutions across global Talent Acquisition function (sourcing tools and marketing campaigns)
 - Usage analysis of hiring tools
 
-***
 # Skills
 - HTML, CSS basics
 - Photoshop, Illustrator, Procreate
 - English B2+, Spanish B1
-***
+
 # Education
 Bachelor in Linguistics and Pedagogy
 Minsk State Linguistic University, 2016
