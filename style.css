@@ -34,3 +34,34 @@ ody {
     .photo {  
     flex-basis: 30%;
     }
+    .container_describtion {
+    display: flex;
+    flex: 0 1 100%;
+    flex-direction: row;
+    margin: 0 0 0 10px;
+    }
+    .category {
+    letter-spacing: 1px;
+    color: #C84B31;
+    font-weight: bold;
+    }
+    .position {
+    font-weight: bold;
+    font-size: 16px;
+    }
+    li {
+    line-height: 30px;
+    }
+    .block_experience {
+    flex-basis: 60%; 
+    }
+    .block_other {
+    flex-basis: 40%;
+    margin: 0 20px 0 20px;
+    }
+    .footer {
+    background-color: #2D4263;
+    min-height: 30px;
+    margin: 15px 0 0 0;
+    }
+        
