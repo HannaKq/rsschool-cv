@@ -1,0 +1,36 @@
+ody {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    padding: 0 20% 0 20%;
+    }
+    .container_header {
+    display: flex;
+    flex: 0 0 100%;
+    flex-direction: column;
+    }
+    .block_header {
+    background-color: #2D4263;
+    min-height: 20%;
+    text-align: center;
+    color: white;
+    }
+    h1 {
+    color: #C84B31;
+    letter-spacing: 1px;
+    }
+    .container_intro {
+    display: flex;
+    flex: 0 1 100%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    }
+    .block_intro {
+    flex-basis: 70%;
+    line-height: 20px;
+    position: relative;
+    }
+    .photo {  
+    flex-basis: 30%;
+    }
